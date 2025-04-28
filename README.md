@@ -1,10 +1,9 @@
 # empirical_project
 **Note** Please run all notebooks from the **root directory** of the project (where the 'data/' and 'notebooks/' folders are located) so that the relative paths work correctly.
 
-This project investigates macroeconomic fragility by constructing a multi-dimensional profile of vulnerability across countries. It introduces the **Fragility Constellation**, a framework that visualises key economic weaknesses along key indicators such as debt, inflation, reserves, and external balances. The project is built in python and documented for full transparency, reproducibility, and open analysis.
+This project investigates macroeconomic fragility by constructing a multi-dimensional profile of vulnerability across countries. It introduces the **Fragility Constellation**, a framework that visualises key economic weaknesses along key indicators such as debt, inflation, reserves, and external balances. The project is built in Python and documented for full transparency, reproducibility, and open analysis.
 ## Project Structure
 - data/: Raw and cleaned data files
-- output/: Charts, graphs, and results
 - notebooks/: Jupyter notebooks for scraping and analysis
 ## Requirements
 This project requires the following Python libraries:
