@@ -3,8 +3,9 @@
 
 This project investigates macroeconomic fragility by constructing a multi-dimensional profile of vulnerability across countries. It introduces the **Fragility Constellation**, a framework that visualises key economic weaknesses along key indicators such as debt, inflation, reserves, and external balances. The project is built in Python and documented for full transparency, reproducibility, and open analysis.
 ## Project Structure
-- data/: Raw and cleaned data files
-- notebooks/: Jupyter notebooks for scraping and analysis
+- data/: Empty by default. Used by the code for saving scraped data.
+- data_backup/: Contains all backup CSV files produced during the project, including both scraped datasets and final outputs. 
+- notebooks/: Jupyter notebooks for scraping and analysis.
 ## Requirements
 This project requires the following Python libraries:
 - pandas
