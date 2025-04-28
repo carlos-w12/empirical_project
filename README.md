@@ -13,7 +13,7 @@ This project requires the following Python libraries:
 - scikit-learn
 - statsmodels
 - plotly
-- ipywidgets
+- matplotlib
 ## Project Documentation
 ### Step 1 - Scraping the data
 - Scraped macroeconomic indicators from the World Bank API (2010-2022) using Python's 'requests' and 'pandas' libraries
